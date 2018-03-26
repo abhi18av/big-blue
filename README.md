@@ -2,6 +2,8 @@
 
 FIXME: description
 
+
+TODO: Change the name to sherlock
 ## Installation
 
 Download from http://example.com/FIXME.
